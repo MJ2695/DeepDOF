@@ -113,6 +113,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 DATA/npo_720um_valid.tfrecords
+DATA/npo_720um_train.tfrecords
 .idea/workspace.xml
 .idea/final_code.iml
 .idea/misc.xml
