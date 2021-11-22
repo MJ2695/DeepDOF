@@ -1,5 +1,7 @@
 # [DeepDOF: Deep learning extended depth-of-field microscope for fast and slide-free histology](https://www.pnas.org/content/117/52/33051)
-Lingbo Jin,  Yubo Tang, Yicheng Wu,  Jackson B. Coole, Melody T. Tan, Xuan Zhao, Hawraa Badaoui, Jacob T. Robinson, Michelle D. Williams, Ann M. Gillenwater, Rebecca R. Richards-Kortum, and Ashok Veeraraghavan
+Lingbo Jin<sup>1</sup>,  Yubo Tang<sup>1</sup>, Yicheng Wu,  Jackson B. Coole, Melody T. Tan, Xuan Zhao, Hawraa Badaoui, Jacob T. Robinson, Michelle D. Williams, Ann M. Gillenwater, Rebecca R. Richards-Kortum, and Ashok Veeraraghavan
+
+<sup>1</sup> equal contribution
 
 Reference github repository for the paper [Deep learning extended depth-of-field microscope](https://www.pnas.org/content/117/52/33051). Proceedings of the National Academy of Sciences 117.52 (2020) If you use our dataset or code, please cite our paper:
 
