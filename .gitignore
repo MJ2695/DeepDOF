@@ -112,3 +112,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+DATA/npo_720um_valid.tfrecords
+.idea/workspace.xml
+.idea/final_code.iml
+.idea/misc.xml
+.idea/modules.xml
